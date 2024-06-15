@@ -1,0 +1,15 @@
+D:\Tubes KPL\Main\bin\Debug\net8.0\Main.exe
+D:\Tubes KPL\Main\bin\Debug\net8.0\Main.deps.json
+D:\Tubes KPL\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+D:\Tubes KPL\Main\bin\Debug\net8.0\Main.dll
+D:\Tubes KPL\Main\bin\Debug\net8.0\Main.pdb
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.sourcelink.json
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.dll
+D:\Tubes KPL\Main\obj\Debug\net8.0\refint\Main.dll
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.pdb
+D:\Tubes KPL\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+D:\Tubes KPL\Main\obj\Debug\net8.0\ref\Main.dll
